@@ -1,0 +1,6 @@
+com\admin\webAdmin\controllers\UsuarioController.class
+com\admin\webAdmin\WebAdminApplication.class
+com\admin\webAdmin\models\Usuario.class
+com\admin\webAdmin\ServletInitializer.class
+com\admin\webAdmin\dao\UsuarioDaoImp.class
+com\admin\webAdmin\dao\UsuarioDao.class
